@@ -4,7 +4,7 @@
 
 # Resources for front-end Developers
 
-      1. Topics
+      **1. Topics**
       2. Colors
       3. Images
       4. Fonts
