@@ -14,5 +14,8 @@
       8. Design Templates
 
 
-
-
+## Colors
+      | Links  | Description |
+      | ------------- | ------------- |
+      | colorsinpo.com  | Select any color from the color list and use id  |
+      | colormind.com  | A list of best usefull colors  |
