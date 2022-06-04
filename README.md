@@ -3,7 +3,7 @@
 
 
 # Resources for front-end Developers
-**
+
       1. Topics
       2. Colors
       3. Images
@@ -11,7 +11,7 @@
       5. Icons
       6. Alerts
       7. Text Animations
-      8. Design Templates**
+      8. Design Templates
 
 
 
