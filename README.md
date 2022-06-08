@@ -4,19 +4,20 @@
 
 # Resources for front-end Developers
 
-      Topics
-      2. Colors
-      3. Images
-      4. Fonts
-      5. Icons
-      6. Alerts
-      7. Text Animations
-      8. Design Templates
+### Topics
+
+- Colors
+- Images
+- Fonts
+- Icons
+- Alerts
+- Text Animations
+- Design Templates
 
 ## Colors
 
-[ColorHunt](https://colorhunt.co)
-
-[ColorMind](http://colormind.io)
-
-[ColorsWall](https://colorswall.com/palettes)
+| Name                                          | Explaination                                                                                                                        |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [ColorHunt](https://colorhunt.co)             | Get a list of colors for your needed.                                                                                               |
+| [ColorMind](http://colormind.io)              | Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art. |
+| [ColorsWall](https://colorswall.com/palettes) | Most popular Palettes color Collections.                                                                                            |
