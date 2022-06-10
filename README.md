@@ -1,6 +1,7 @@
 # Frontend-resources
 
-![Banner](https://user-images.githubusercontent.com/78463849/171996128-2a00134a-bdb0-4876-afb7-bc3ca826d6db.jpeg)
+![resources](https://user-images.githubusercontent.com/78463849/173004939-c06b4552-cb3a-48c5-b06a-db8e67b850ee.png)
+
 
 # Resources for front-end Developers
 
