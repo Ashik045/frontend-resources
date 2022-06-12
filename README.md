@@ -52,3 +52,33 @@
 | [Material Design Icons](https://materialdesignicons.com/) | Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Css Icons](https://cssicon.space/#)                      | Icon set made with pure css code, no dependencies, "grab and go" icons.                                                                                                               |
 | [Free Icons](https://icon-icons.com/)                     | Best icons for personal and commercial use SVG - PNG.                                                                                                                                 |
+
+## Alerts
+
+| Name                                           | Explaination                                                                                           |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Sweetalert](https://sweetalert.js.org/)       | SweetAlert makes popup messages easy and pretty.                                                       |
+| [Sweetalert 2](https://sweetalert2.github.io/) | A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES. |
+
+## Animations
+
+| Name | Explaination |
+| ---- | ------------ |
+
+### CSS
+
+======
+| [Animista](https://animista.net/) | CSS animation. Smooth Text, Box-modal, hover animation. |
+| [Loaders](https://cssloaders.github.io/) | This is a library having a collection of different types of CSS loaders, spinners. |
+| [Animate](https://animate.style/) | Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints. |
+| [Hover.css](http://ianlunn.github.io/Hover/) | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. |
+| [Tholman](https://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind. |
+| [Motion UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations. |
+| [Tholman](https://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind. |
+
+### Javascript
+
+==========
+| [Animation on Scroll](https://michalsnik.github.io/aos/) | Animate on scroll library to reveal animations when You scroll. |
+| [Wow.js](https://wowjs.uk/) | Reveal Animations When You Scroll. |
+| [Greensock](https://greensock.com/) | A JavaScript library for building high-performance animations that work in every major browser |
