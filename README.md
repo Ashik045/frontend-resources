@@ -64,23 +64,20 @@
 
 ### CSS
 
-======
-| Name | Explaination |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-| [Animista](https://animista.net/) | CSS animation. Smooth Text, Box-modal, hover animation. |
-| [Loaders](https://cssloaders.github.io/) | This is a library having a collection of different types of CSS loaders, spinners. |
-| [Animate](https://animate.style/) | Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints. |
-| [Hover.css](http://ianlunn.github.io/Hover/) | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. |
-| [Tholman](https://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind. |
-| [Motion UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations. |
-| [Tholman](https://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind. |
+| Name                                               | Explaination                                                                                                                                                           |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Animista](https://animista.net/)                  | CSS animation. Smooth Text, Box-modal, hover animation.                                                                                                                |
+| [Loaders](https://cssloaders.github.io/)           | This is a library having a collection of different types of CSS loaders, spinners.                                                                                     |
+| [Animate](https://animate.style/)                  | Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints. |
+| [Hover.css](http://ianlunn.github.io/Hover/)       | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.                                                     |
+| [Tholman](https://tholman.com/obnoxious/)          | Animations for the strong of heart, and weak of mind.                                                                                                                  |
+| [Motion UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations.                                                                                                   |
+| [Tholman](https://tholman.com/obnoxious/)          | Animations for the strong of heart, and weak of mind.                                                                                                                  |
 
 ### Javascript
 
-==========
-| Name | Explaination |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name                                                     | Explaination                                                    |
+| -------------------------------------------------------- | --------------------------------------------------------------- |
 | [Animation on Scroll](https://michalsnik.github.io/aos/) | Animate on scroll library to reveal animations when You scroll. |
-| [Wow.js](https://wowjs.uk/) | Reveal Animations When You Scroll. |
-| [Greensock](https://greensock.com/) | Reveal Animations When You Scroll. |
+| [Wow.js](https://wowjs.uk/)                              | Reveal Animations When You Scroll.                              |
+| [Greensock](https://greensock.com/)                      | Reveal Animations When You Scroll.                              |
