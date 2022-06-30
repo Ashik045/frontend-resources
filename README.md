@@ -81,3 +81,11 @@
 | [Animation on Scroll](https://michalsnik.github.io/aos/) | Animate on scroll library to reveal animations when You scroll. |
 | [Wow.js](https://wowjs.uk/)                              | Reveal Animations When You Scroll.                              |
 | [Greensock](https://greensock.com/)                      | Reveal Animations When You Scroll.                              |
+
+## Design Templates
+
+| Name                                                                                                                                                         | Explaination                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [Ohio-Clbthemes](https://ohio.clbthemes.com/)                                                                                                                | A website With best in class features and design templates.                                                            |
+| [Envato Elements](https://elements.envato.com/)                                                                                                              | Unlimited downloads of 60+ million creative assets and Templates.                                                      |
+| [Ohio-Clbthemes](https://www.templatemonster.com/?aff=TM&gclid=Cj0KCQjw8O-VBhCpARIsACMvVLPhkAe4Phr28VArgdiVSJqGAcU_FewoNgH_NffDoftb_bohwxAzlvsaAhRjEALw_wcB) | The collection of items includes a wide choice of website templates suitable for all kinds of niche-specific projects. |
