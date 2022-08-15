@@ -60,7 +60,7 @@
 
 ## Logos and SVG Backgrounds
 
-### - Logos
+### 👉 Logos
 
 | Name                                                                | Explaination                                |
 | ------------------------------------------------------------------- | ------------------------------------------- |
@@ -68,7 +68,7 @@
 | [Logosearch](https://logosear.ch/search.html)                       | Search engine with over 200,000 SVG logos.  |
 | [Flaticon](https://www.flaticon.com/free-icons/programing-language) | 3700+ Programing languages icons and logos. |
 
-### - SVG Backgrounds
+### 👉 SVG Backgrounds
 
 | Name                                                     | Explaination                                                                                       |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -87,7 +87,7 @@
 
 ## Animations
 
-### - CSS
+### 👉 CSS
 
 | Name                                               | Explaination                                                                                                                                                           |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,7 +99,7 @@
 | [Motion UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations.                                                                                                   |
 | [Tholman](https://tholman.com/obnoxious/)          | Animations for the strong of heart, and weak of mind.                                                                                                                  |
 
-### - Javascript
+### 👉 Javascript
 
 | Name                                                     | Explaination                                                    |
 | -------------------------------------------------------- | --------------------------------------------------------------- |
