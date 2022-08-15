@@ -10,6 +10,7 @@
 - Images
 - Fonts
 - Icons
+- Logos and SVG BG
 - Alerts
 - Animations
 - Image Sliders
@@ -49,23 +50,44 @@
 
 ## Icons
 
-| Name                                                      | Explaination                                                                                                                                                                          |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Bootstrap Icons](https://icons.getbootstrap.com/)        | Free, high quality, open source icon library with over 1,600 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.   |
-| [Material Design Icons](https://materialdesignicons.com/) | Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
-| [Css Icons](https://cssicon.space/#)                      | Icon set made with pure css code, no dependencies, "grab and go" icons.                                                                                                               |
-| [Free Icons](https://icon-icons.com/)                     | Best icons for personal and commercial use SVG - PNG.                                                                                                                                 |
+| Name                                                                | Explaination                                                                                                                                                                          |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flaticon](https://www.flaticon.com/free-icons/programing-language) | 3700+ Programing languages icon and logos.                                                                                                                                            |
+| [Bootstrap Icons](https://icons.getbootstrap.com/)                  | Free, high quality, open source icon library with over 1,600 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.   |
+| [Material Design Icons](https://materialdesignicons.com/)           | Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
+| [Css Icons](https://cssicon.space/#)                                | Icon set made with pure css code, no dependencies, "grab and go" icons.                                                                                                               |
+| [Free Icons](https://icon-icons.com/)                               | Best icons for personal and commercial use SVG - PNG.                                                                                                                                 |
+
+## Logos and SVG Backgrounds
+
+### - Logos
+
+| Name                                                                | Explaination                                |
+| ------------------------------------------------------------------- | ------------------------------------------- |
+| [Svgporn](https://svgporn.com/)                                     | 1000+ high-quality SVG logos.               |
+| [Logosearch](https://logosear.ch/search.html)                       | Search engine with over 200,000 SVG logos.  |
+| [Flaticon](https://www.flaticon.com/free-icons/programing-language) | 3700+ Programing languages icons and logos. |
+
+### - SVG Backgrounds
+
+| Name                                                     | Explaination                                                                                       |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [Getwaves](https://getwaves.io/)                         | Customizable backgrounds images                                                                    |
+| [Illustrationkit](https://illustrationkit.com/)          | Free vector illustrations for personal & commercial projects designe.                              |
+| [Freepik](https://www.freepik.com/vectors/illustrations) | Find and download the best high-quality photos, designs and mockups.                               |
+| [Drawkit](https://drawkit.com/)                          | Hand-drawn vector illustration and icon resources, perfect for your next project.                  |
+| [Blobmaker](https://www.blobmaker.app/)                  | Blobmaker is a free generative design tool. Create random, unique, and organic-looking SVG shapes. |
 
 ## Alerts
 
-| Name                                           | Explaination                                                                                           |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Sweetalert](https://sweetalert.js.org/)       | SweetAlert makes popup messages easy and pretty.                                                       |
-| [Sweetalert 2](https://sweetalert2.github.io/) | A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES. |
+| Name                                           | Explaination                                                                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Sweetalert](https://sweetalert.js.org/)       | SweetAlert makes popup messages easy and pretty.                                                                   |
+| [Sweetalert 2](https://sweetalert2.github.io/) | A beautiful, responsive, customizable, accessible (wai-aria) replacement for javascript's popup boxes replacement. |
 
 ## Animations
 
-### CSS
+### - CSS
 
 | Name                                               | Explaination                                                                                                                                                           |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,7 +99,7 @@
 | [Motion UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations.                                                                                                   |
 | [Tholman](https://tholman.com/obnoxious/)          | Animations for the strong of heart, and weak of mind.                                                                                                                  |
 
-### Javascript
+### - Javascript
 
 | Name                                                     | Explaination                                                    |
 | -------------------------------------------------------- | --------------------------------------------------------------- |
@@ -87,12 +109,11 @@
 
 ## Image Sliders
 
-| Name                                                                             | Explaination                                                                                                                   |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [SwiperJs](https://swiperjs.com/)                                                | The Most Modern Website and Mobile Touch Slider.                                                                               |
-| [SplideJs](https://splidejs.com/)                                                | Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
-| [SequenceJs](https://www.sequencejs.com/)                                        | The responsive CSS animation framework                                                                                         |
-| For creating sliders, presentations, banners, and other step-based applications. |
+| Name                                      | Explaination                                                                                                                   |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [SwiperJs](https://swiperjs.com/)         | The Most Modern Website and Mobile Touch Slider.                                                                               |
+| [SplideJs](https://splidejs.com/)         | Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
+| [SequenceJs](https://www.sequencejs.com/) | The responsive CSS animation framework for creating sliders, presentations, banners, and other step-based applications.        |
 
 ## Videos and Sounds
 
