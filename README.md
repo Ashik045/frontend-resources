@@ -82,6 +82,17 @@
 | [Wow.js](https://wowjs.uk/)                              | Reveal Animations When You Scroll.                              |
 | [Greensock](https://greensock.com/)                      | Reveal Animations When You Scroll.                              |
 
+## Videos and Sounds
+
+| Name                                                  | Explaination                                                                   |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Pexels](https://www.pexels.com/videos/)              | The best free stock videos shared by the Pexels community.                     |
+| [Pixabay](https://pixabay.com/videos/)                | Stunning free stock video footage & clips.                                     |
+| [Videvo](https://www.videvo.net/stock-video-footage/) | Free and premium awesome stock videos                                          |
+| [Free-Stock-Music](https://www.free-stock-music.com/) | Royalty free stock music for attractive videos, YouTube videos, podcasts, etc. |
+| [Bensound](https://www.bensound.com/)                 | Royalty Free Music                                                             |
+| for Creators.                                         |
+
 ## Design Templates
 
 | Name                                                                                                                                                          | Explaination                                                                                                                                 |
