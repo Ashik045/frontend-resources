@@ -11,8 +11,11 @@
 - Fonts
 - Icons
 - Alerts
-- Text Animations
+- Animations
+- Image Sliders
+- Videos and Sounds
 - Design Templates
+- Useful Tools
 
 ## Colors
 
@@ -82,6 +85,15 @@
 | [Wow.js](https://wowjs.uk/)                              | Reveal Animations When You Scroll.                              |
 | [Greensock](https://greensock.com/)                      | Reveal Animations When You Scroll.                              |
 
+## Image Sliders
+
+| Name                                                                             | Explaination                                                                                                                   |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [SwiperJs](https://swiperjs.com/)                                                | The Most Modern Website and Mobile Touch Slider.                                                                               |
+| [SplideJs](https://splidejs.com/)                                                | Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
+| [SequenceJs](https://www.sequencejs.com/)                                        | The responsive CSS animation framework                                                                                         |
+| For creating sliders, presentations, banners, and other step-based applications. |
+
 ## Videos and Sounds
 
 | Name                                                  | Explaination                                                                   |
@@ -90,8 +102,7 @@
 | [Pixabay](https://pixabay.com/videos/)                | Stunning free stock video footage & clips.                                     |
 | [Videvo](https://www.videvo.net/stock-video-footage/) | Free and premium awesome stock videos                                          |
 | [Free-Stock-Music](https://www.free-stock-music.com/) | Royalty free stock music for attractive videos, YouTube videos, podcasts, etc. |
-| [Bensound](https://www.bensound.com/)                 | Royalty Free Music                                                             |
-| for Creators.                                         |
+| [Bensound](https://www.bensound.com/)                 | Royalty Free Music for Creators.                                               |
 
 ## Design Templates
 
@@ -106,3 +117,12 @@
 | [Screenlane](https://screenlane.com/)                                                                                                                         | The latest mobile UI design inspiration in your inbox every week, for free.                                                                  |
 | [Dribbble](https://dribbble.com/)                                                                                                                             | Explore the world’s leading design portfolios.                                                                                               |
 | [Free Design resources](https://freedesignresources.net/)                                                                                                     | Crafted with love from amazing artists and professional designers around the world, ranging from fonts, mockups, graphics, templates & more. |
+
+## Tools
+
+| Name                                                                  | Explaination                                                         |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [TinyPng](https://tinypng.com/)                                       | Smart WebP, PNG and JPEG compression.                                |
+| [I love Pdf](https://www.ilovepdf.com/)                               | Every tool you need to work with PDFs in one place.                  |
+| [Box-Shadows](https://getcssscan.com/css-box-shadow-examples)         | Beautiful CSS box-shadow examples.                                   |
+| [Colors From Image](https://html-color-codes.info/colors-from-image/) | Get color codes by uploading file from your computer or insert link. |
