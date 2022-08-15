@@ -141,9 +141,15 @@
 
 ## Tools
 
-| Name                                                                  | Explaination                                                         |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [TinyPng](https://tinypng.com/)                                       | Smart WebP, PNG and JPEG compression.                                |
-| [I love Pdf](https://www.ilovepdf.com/)                               | Every tool you need to work with PDFs in one place.                  |
-| [Box-Shadows](https://getcssscan.com/css-box-shadow-examples)         | Beautiful CSS box-shadow examples.                                   |
-| [Colors From Image](https://html-color-codes.info/colors-from-image/) | Get color codes by uploading file from your computer or insert link. |
+| Name                                                                   | Explaination                                                                                                |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [TinyPng](https://tinypng.com/)                                        | Smart WebP, PNG and JPEG compression.                                                                       |
+| [I love Pdf](https://www.ilovepdf.com/)                                | Every tool you need to work with PDFs in one place.                                                         |
+| [Box-Shadows](https://getcssscan.com/css-box-shadow-examples)          | Beautiful CSS box-shadow examples.                                                                          |
+| [Colors From Image](https://html-color-codes.info/colors-from-image/)  | Get color codes by uploading file from your computer or insert link.                                        |
+| [Figma](https://www.figma.com/graphic-design-tool/)                    | All the elements you need to create amazing logos, social media graphics, presentations and more, for free. |
+| [Canva](https://www.canva.com/)                                        | Online design tools                                                                                         |
+| [Removebg](https://www.remove.bg/)                                     | Remove and change the background of image on online.                                                        |
+| [Unscreen](https://www.unscreen.com/)                                  | Remove Video Background 100% Automatically and Free.                                                        |
+| [Glass UI](https://ui.glass/generator/)                                | Glass UI is a free and open-source CSS library based on the glassmorphism design specifications.            |
+| [Mobile-friendly Test](https://search.google.com/test/mobile-friendly) | Test how easily a visitor can use your page on a mobile device.                                             |
