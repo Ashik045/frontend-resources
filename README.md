@@ -15,7 +15,7 @@
 - [Animations](#animations)
 - [Image Sliders](#image-sliders)
 - [Videos and Sounds](#videos-and-sounds)
-- [React UI Tools & Packages](#react-ui-tools-ackages)
+- [React UI Tools & Packages](#react-ui-tools-&-ackages)
 - [Design Templates](#design-templates)
 - [Useful Tools](#tools)
 
@@ -147,7 +147,7 @@
 | [Free-Stock-Music](https://www.free-stock-music.com/) | Royalty free stock music for attractive videos, YouTube videos, podcasts, etc. |
 | [Bensound](https://www.bensound.com/)                 | Royalty Free Music for Creators.                                               |
 
-<!-- react-ui-tools-ackages -->
+<!-- react-ui-tools-&-ackages -->
 
 ## React UI Tools & Packages
 
