@@ -6,8 +6,8 @@
 
 ### Topics
 
-- Colors
-- Images
+- [Colors](#colors)
+- [Images](#images)
 - Fonts
 - Icons
 - Logos and SVG BG
@@ -18,6 +18,8 @@
 - Design Templates
 - Useful Tools
 
+<!-- colors -->
+
 ## Colors
 
 | Name                                          | Explaination                                                                                                                        |
@@ -27,6 +29,8 @@
 | [ColorsWall](https://colorswall.com/palettes) | Most popular Palettes color Collections.                                                                                            |
 | [Coolors](https://coolors.co/)                | The super fast color palettes generator                                                                                             |
 | [BrandColors](http://brandcolors.net/)        | The biggest collection of official brand color codes around.                                                                        |
+
+<!-- images -->
 
 ## Images
 
