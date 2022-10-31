@@ -8,15 +8,15 @@
 
 - [Colors](#colors)
 - [Images](#images)
-- Fonts
-- Icons
-- Logos and SVG BG
-- Alerts
-- Animations
-- Image Sliders
-- Videos and Sounds
-- Design Templates
-- Useful Tools
+- [Fonts](#fonts)
+- [Icons](#icons)
+- [Logos and SVG BG](#logos-and-svg-bg)
+- [Alerts](#alerts)
+- [Animations](#animations)
+- [Image Sliders](#image-sliders)
+- [Videos and Sounds](#videos-and-sounds)
+- [Design Templates](#design-templates)
+- [Useful Tools](#useful-tools)
 
 <!-- colors -->
 
@@ -44,6 +44,8 @@
 | [FindAphoto](https://www.chamberofcommerce.org/findaphoto/) | Browse through over 1 million high-quality stock photos across multiple free and paid stock photo sites - from one tab. |
 | [FreeImages](https://www.freeimages.com/)                   | Free Stock Photos & Royalty-Free Images.                                                                                |
 
+<!-- fonts -->
+
 ## Fonts
 
 | Name                                             | Explaination                                                                                                      |
@@ -51,6 +53,8 @@
 | [GoogleFonts](https://fonts.google.com/)         | Library of around 1000 free licensed font families.                                                               |
 | [1001 FreeFonts](https://www.1001freefonts.com/) | The Ultimate Font Download. Download 10,000 fonts for just $19.95. Licensed for personal and commercial use.      |
 | [Fontget](https://www.fontget.com/)              | Free Stock Photos & Royalty-Free Images.Has a variety of fonts available to download and sorted neatly with tags. |
+
+<!-- icons -->
 
 ## Icons
 
@@ -61,6 +65,8 @@
 | [Material Design Icons](https://materialdesignicons.com/)           | Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Css Icons](https://cssicon.space/#)                                | Icon set made with pure css code, no dependencies, "grab and go" icons.                                                                                                               |
 | [Free Icons](https://icon-icons.com/)                               | Best icons for personal and commercial use SVG - PNG.                                                                                                                                 |
+
+<!-- logos-and-svg-bg -->
 
 ## Logos and SVG Backgrounds
 
@@ -82,12 +88,16 @@
 | [Drawkit](https://drawkit.com/)                          | Hand-drawn vector illustration and icon resources, perfect for your next project.                  |
 | [Blobmaker](https://www.blobmaker.app/)                  | Blobmaker is a free generative design tool. Create random, unique, and organic-looking SVG shapes. |
 
+<!-- alerts -->
+
 ## Alerts
 
 | Name                                           | Explaination                                                                                                       |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [Sweetalert](https://sweetalert.js.org/)       | SweetAlert makes popup messages easy and pretty.                                                                   |
 | [Sweetalert 2](https://sweetalert2.github.io/) | A beautiful, responsive, customizable, accessible (wai-aria) replacement for javascript's popup boxes replacement. |
+
+<!-- animations -->
 
 ## Animations
 
@@ -111,6 +121,8 @@
 | [Wow.js](https://wowjs.uk/)                              | Reveal Animations When You Scroll.                              |
 | [Greensock](https://greensock.com/)                      | Reveal Animations When You Scroll.                              |
 
+<!-- image-sliders -->
+
 ## Image Sliders
 
 | Name                                      | Explaination                                                                                                                   |
@@ -118,6 +130,8 @@
 | [SwiperJs](https://swiperjs.com/)         | The Most Modern Website and Mobile Touch Slider.                                                                               |
 | [SplideJs](https://splidejs.com/)         | Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
 | [SequenceJs](https://www.sequencejs.com/) | The responsive CSS animation framework for creating sliders, presentations, banners, and other step-based applications.        |
+
+<!-- videos-and-sounds -->
 
 ## Videos and Sounds
 
@@ -128,6 +142,8 @@
 | [Videvo](https://www.videvo.net/stock-video-footage/) | Free and premium awesome stock videos                                          |
 | [Free-Stock-Music](https://www.free-stock-music.com/) | Royalty free stock music for attractive videos, YouTube videos, podcasts, etc. |
 | [Bensound](https://www.bensound.com/)                 | Royalty Free Music for Creators.                                               |
+
+<!-- design-templates -->
 
 ## Design Templates
 
@@ -142,6 +158,8 @@
 | [Screenlane](https://screenlane.com/)                                                                                                                         | The latest mobile UI design inspiration in your inbox every week, for free.                                                                  |
 | [Dribbble](https://dribbble.com/)                                                                                                                             | Explore the world’s leading design portfolios.                                                                                               |
 | [Free Design resources](https://freedesignresources.net/)                                                                                                     | Crafted with love from amazing artists and professional designers around the world, ranging from fonts, mockups, graphics, templates & more. |
+
+<!-- useful-tools -->
 
 ## Tools
 
