@@ -44,6 +44,7 @@
 | [Picspree](https://picspree.com/en)                         | Discover and download beautiful royalty free images, stock photos, illustrations, and vectors.                          |
 | [FindAphoto](https://www.chamberofcommerce.org/findaphoto/) | Browse through over 1 million high-quality stock photos across multiple free and paid stock photo sites - from one tab. |
 | [FreeImages](https://www.freeimages.com/)                   | Free Stock Photos & Royalty-Free Images.                                                                                |
+| [Free Images](https://thenounproject.com/photos/)           | Millions of Art Quality Photos                                                                                          |
 
 <!-- fonts -->
 
@@ -66,6 +67,7 @@
 | [Material Design Icons](https://materialdesignicons.com/)           | Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Css Icons](https://cssicon.space/#)                                | Icon set made with pure css code, no dependencies, "grab and go" icons.                                                                                                               |
 | [Free Icons](https://icon-icons.com/)                               | Best icons for personal and commercial use SVG - PNG.                                                                                                                                 |
+| [Free Icons](https://thenounproject.com/icons/)                     | Millions of icons for personal and commercial use SVG - PNG.                                                                                                                                 |
 
 <!-- logos-and-svg-bg -->
 
