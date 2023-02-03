@@ -30,6 +30,7 @@
 | [ColorsWall](https://colorswall.com/palettes) | Most popular Palettes color Collections.                                                                                            |
 | [Coolors](https://coolors.co/)                | The super fast color palettes generator                                                                                             |
 | [BrandColors](http://brandcolors.net/)        | The biggest collection of official brand color codes around.                                                                        |
+| [BranitionColors](https://branition.com/colors) | Hand-curated collection of color palettes best fitted for branding.                                                                        |
 
 <!-- images -->
 
